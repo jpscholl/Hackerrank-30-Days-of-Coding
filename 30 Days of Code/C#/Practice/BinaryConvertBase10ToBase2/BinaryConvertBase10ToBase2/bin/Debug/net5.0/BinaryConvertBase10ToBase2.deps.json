@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BinaryConvertBase10ToBase2/1.0.0": {
+        "runtime": {
+          "BinaryConvertBase10ToBase2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BinaryConvertBase10ToBase2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

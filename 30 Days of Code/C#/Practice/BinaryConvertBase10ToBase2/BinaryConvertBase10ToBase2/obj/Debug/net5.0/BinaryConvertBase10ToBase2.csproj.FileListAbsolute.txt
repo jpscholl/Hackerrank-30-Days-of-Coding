@@ -1,0 +1,16 @@
+C:\Users\jpsch\source\repos\BinaryConvertBase10ToBase2\BinaryConvertBase10ToBase2\obj\Debug\net5.0\BinaryConvertBase10ToBase2.csproj.AssemblyReference.cache
+C:\Users\jpsch\source\repos\BinaryConvertBase10ToBase2\BinaryConvertBase10ToBase2\obj\Debug\net5.0\BinaryConvertBase10ToBase2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpsch\source\repos\BinaryConvertBase10ToBase2\BinaryConvertBase10ToBase2\obj\Debug\net5.0\BinaryConvertBase10ToBase2.AssemblyInfoInputs.cache
+C:\Users\jpsch\source\repos\BinaryConvertBase10ToBase2\BinaryConvertBase10ToBase2\obj\Debug\net5.0\BinaryConvertBase10ToBase2.AssemblyInfo.cs
+C:\Users\jpsch\source\repos\BinaryConvertBase10ToBase2\BinaryConvertBase10ToBase2\obj\Debug\net5.0\BinaryConvertBase10ToBase2.csproj.CoreCompileInputs.cache
+C:\Users\jpsch\source\repos\BinaryConvertBase10ToBase2\BinaryConvertBase10ToBase2\bin\Debug\net5.0\BinaryConvertBase10ToBase2.exe
+C:\Users\jpsch\source\repos\BinaryConvertBase10ToBase2\BinaryConvertBase10ToBase2\bin\Debug\net5.0\BinaryConvertBase10ToBase2.deps.json
+C:\Users\jpsch\source\repos\BinaryConvertBase10ToBase2\BinaryConvertBase10ToBase2\bin\Debug\net5.0\BinaryConvertBase10ToBase2.runtimeconfig.json
+C:\Users\jpsch\source\repos\BinaryConvertBase10ToBase2\BinaryConvertBase10ToBase2\bin\Debug\net5.0\BinaryConvertBase10ToBase2.runtimeconfig.dev.json
+C:\Users\jpsch\source\repos\BinaryConvertBase10ToBase2\BinaryConvertBase10ToBase2\bin\Debug\net5.0\BinaryConvertBase10ToBase2.dll
+C:\Users\jpsch\source\repos\BinaryConvertBase10ToBase2\BinaryConvertBase10ToBase2\bin\Debug\net5.0\ref\BinaryConvertBase10ToBase2.dll
+C:\Users\jpsch\source\repos\BinaryConvertBase10ToBase2\BinaryConvertBase10ToBase2\bin\Debug\net5.0\BinaryConvertBase10ToBase2.pdb
+C:\Users\jpsch\source\repos\BinaryConvertBase10ToBase2\BinaryConvertBase10ToBase2\obj\Debug\net5.0\BinaryConvertBase10ToBase2.dll
+C:\Users\jpsch\source\repos\BinaryConvertBase10ToBase2\BinaryConvertBase10ToBase2\obj\Debug\net5.0\ref\BinaryConvertBase10ToBase2.dll
+C:\Users\jpsch\source\repos\BinaryConvertBase10ToBase2\BinaryConvertBase10ToBase2\obj\Debug\net5.0\BinaryConvertBase10ToBase2.pdb
+C:\Users\jpsch\source\repos\BinaryConvertBase10ToBase2\BinaryConvertBase10ToBase2\obj\Debug\net5.0\BinaryConvertBase10ToBase2.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\jpsch\source\repos\LibraryCatalogue\LibraryCatalogue\bin\Debug\net5.0\LibraryCatalogue.exe
+C:\Users\jpsch\source\repos\LibraryCatalogue\LibraryCatalogue\bin\Debug\net5.0\LibraryCatalogue.deps.json
+C:\Users\jpsch\source\repos\LibraryCatalogue\LibraryCatalogue\bin\Debug\net5.0\LibraryCatalogue.runtimeconfig.json
+C:\Users\jpsch\source\repos\LibraryCatalogue\LibraryCatalogue\bin\Debug\net5.0\LibraryCatalogue.runtimeconfig.dev.json
+C:\Users\jpsch\source\repos\LibraryCatalogue\LibraryCatalogue\bin\Debug\net5.0\LibraryCatalogue.dll
+C:\Users\jpsch\source\repos\LibraryCatalogue\LibraryCatalogue\bin\Debug\net5.0\ref\LibraryCatalogue.dll
+C:\Users\jpsch\source\repos\LibraryCatalogue\LibraryCatalogue\bin\Debug\net5.0\LibraryCatalogue.pdb
+C:\Users\jpsch\source\repos\LibraryCatalogue\LibraryCatalogue\obj\Debug\net5.0\LibraryCatalogue.csproj.AssemblyReference.cache
+C:\Users\jpsch\source\repos\LibraryCatalogue\LibraryCatalogue\obj\Debug\net5.0\LibraryCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpsch\source\repos\LibraryCatalogue\LibraryCatalogue\obj\Debug\net5.0\LibraryCatalogue.AssemblyInfoInputs.cache
+C:\Users\jpsch\source\repos\LibraryCatalogue\LibraryCatalogue\obj\Debug\net5.0\LibraryCatalogue.AssemblyInfo.cs
+C:\Users\jpsch\source\repos\LibraryCatalogue\LibraryCatalogue\obj\Debug\net5.0\LibraryCatalogue.csproj.CoreCompileInputs.cache
+C:\Users\jpsch\source\repos\LibraryCatalogue\LibraryCatalogue\obj\Debug\net5.0\LibraryCatalogue.dll
+C:\Users\jpsch\source\repos\LibraryCatalogue\LibraryCatalogue\obj\Debug\net5.0\ref\LibraryCatalogue.dll
+C:\Users\jpsch\source\repos\LibraryCatalogue\LibraryCatalogue\obj\Debug\net5.0\LibraryCatalogue.pdb
+C:\Users\jpsch\source\repos\LibraryCatalogue\LibraryCatalogue\obj\Debug\net5.0\LibraryCatalogue.genruntimeconfig.cache
