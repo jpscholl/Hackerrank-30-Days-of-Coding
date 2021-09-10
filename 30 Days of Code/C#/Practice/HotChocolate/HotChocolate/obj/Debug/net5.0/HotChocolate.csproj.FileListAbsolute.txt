@@ -1,0 +1,16 @@
+C:\Users\jpsch\source\repos\30DaysOfCode\HotChocolate\HotChocolate\bin\Debug\net5.0\HotChocolate.exe
+C:\Users\jpsch\source\repos\30DaysOfCode\HotChocolate\HotChocolate\bin\Debug\net5.0\HotChocolate.deps.json
+C:\Users\jpsch\source\repos\30DaysOfCode\HotChocolate\HotChocolate\bin\Debug\net5.0\HotChocolate.runtimeconfig.json
+C:\Users\jpsch\source\repos\30DaysOfCode\HotChocolate\HotChocolate\bin\Debug\net5.0\HotChocolate.runtimeconfig.dev.json
+C:\Users\jpsch\source\repos\30DaysOfCode\HotChocolate\HotChocolate\bin\Debug\net5.0\HotChocolate.dll
+C:\Users\jpsch\source\repos\30DaysOfCode\HotChocolate\HotChocolate\bin\Debug\net5.0\ref\HotChocolate.dll
+C:\Users\jpsch\source\repos\30DaysOfCode\HotChocolate\HotChocolate\bin\Debug\net5.0\HotChocolate.pdb
+C:\Users\jpsch\source\repos\30DaysOfCode\HotChocolate\HotChocolate\obj\Debug\net5.0\HotChocolate.csproj.AssemblyReference.cache
+C:\Users\jpsch\source\repos\30DaysOfCode\HotChocolate\HotChocolate\obj\Debug\net5.0\HotChocolate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpsch\source\repos\30DaysOfCode\HotChocolate\HotChocolate\obj\Debug\net5.0\HotChocolate.AssemblyInfoInputs.cache
+C:\Users\jpsch\source\repos\30DaysOfCode\HotChocolate\HotChocolate\obj\Debug\net5.0\HotChocolate.AssemblyInfo.cs
+C:\Users\jpsch\source\repos\30DaysOfCode\HotChocolate\HotChocolate\obj\Debug\net5.0\HotChocolate.csproj.CoreCompileInputs.cache
+C:\Users\jpsch\source\repos\30DaysOfCode\HotChocolate\HotChocolate\obj\Debug\net5.0\HotChocolate.dll
+C:\Users\jpsch\source\repos\30DaysOfCode\HotChocolate\HotChocolate\obj\Debug\net5.0\ref\HotChocolate.dll
+C:\Users\jpsch\source\repos\30DaysOfCode\HotChocolate\HotChocolate\obj\Debug\net5.0\HotChocolate.pdb
+C:\Users\jpsch\source\repos\30DaysOfCode\HotChocolate\HotChocolate\obj\Debug\net5.0\HotChocolate.genruntimeconfig.cache
