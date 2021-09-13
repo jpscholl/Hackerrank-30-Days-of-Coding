@@ -1,0 +1,16 @@
+C:\Users\jpsch\source\repos\30DaysOfCode\CalendarPractice\CalendarPractice\bin\Debug\net5.0\CalendarPractice.exe
+C:\Users\jpsch\source\repos\30DaysOfCode\CalendarPractice\CalendarPractice\bin\Debug\net5.0\CalendarPractice.deps.json
+C:\Users\jpsch\source\repos\30DaysOfCode\CalendarPractice\CalendarPractice\bin\Debug\net5.0\CalendarPractice.runtimeconfig.json
+C:\Users\jpsch\source\repos\30DaysOfCode\CalendarPractice\CalendarPractice\bin\Debug\net5.0\CalendarPractice.runtimeconfig.dev.json
+C:\Users\jpsch\source\repos\30DaysOfCode\CalendarPractice\CalendarPractice\bin\Debug\net5.0\CalendarPractice.dll
+C:\Users\jpsch\source\repos\30DaysOfCode\CalendarPractice\CalendarPractice\bin\Debug\net5.0\ref\CalendarPractice.dll
+C:\Users\jpsch\source\repos\30DaysOfCode\CalendarPractice\CalendarPractice\bin\Debug\net5.0\CalendarPractice.pdb
+C:\Users\jpsch\source\repos\30DaysOfCode\CalendarPractice\CalendarPractice\obj\Debug\net5.0\CalendarPractice.csproj.AssemblyReference.cache
+C:\Users\jpsch\source\repos\30DaysOfCode\CalendarPractice\CalendarPractice\obj\Debug\net5.0\CalendarPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpsch\source\repos\30DaysOfCode\CalendarPractice\CalendarPractice\obj\Debug\net5.0\CalendarPractice.AssemblyInfoInputs.cache
+C:\Users\jpsch\source\repos\30DaysOfCode\CalendarPractice\CalendarPractice\obj\Debug\net5.0\CalendarPractice.AssemblyInfo.cs
+C:\Users\jpsch\source\repos\30DaysOfCode\CalendarPractice\CalendarPractice\obj\Debug\net5.0\CalendarPractice.csproj.CoreCompileInputs.cache
+C:\Users\jpsch\source\repos\30DaysOfCode\CalendarPractice\CalendarPractice\obj\Debug\net5.0\CalendarPractice.dll
+C:\Users\jpsch\source\repos\30DaysOfCode\CalendarPractice\CalendarPractice\obj\Debug\net5.0\ref\CalendarPractice.dll
+C:\Users\jpsch\source\repos\30DaysOfCode\CalendarPractice\CalendarPractice\obj\Debug\net5.0\CalendarPractice.pdb
+C:\Users\jpsch\source\repos\30DaysOfCode\CalendarPractice\CalendarPractice\obj\Debug\net5.0\CalendarPractice.genruntimeconfig.cache

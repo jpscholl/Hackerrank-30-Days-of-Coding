@@ -1,0 +1,15 @@
+C:\Users\jpsch\source\repos\30DaysOfCode\DictionaryPractice\DictionaryPractice\bin\Debug\net5.0\DictionaryPractice.exe
+C:\Users\jpsch\source\repos\30DaysOfCode\DictionaryPractice\DictionaryPractice\bin\Debug\net5.0\DictionaryPractice.deps.json
+C:\Users\jpsch\source\repos\30DaysOfCode\DictionaryPractice\DictionaryPractice\bin\Debug\net5.0\DictionaryPractice.runtimeconfig.json
+C:\Users\jpsch\source\repos\30DaysOfCode\DictionaryPractice\DictionaryPractice\bin\Debug\net5.0\DictionaryPractice.runtimeconfig.dev.json
+C:\Users\jpsch\source\repos\30DaysOfCode\DictionaryPractice\DictionaryPractice\bin\Debug\net5.0\DictionaryPractice.dll
+C:\Users\jpsch\source\repos\30DaysOfCode\DictionaryPractice\DictionaryPractice\bin\Debug\net5.0\ref\DictionaryPractice.dll
+C:\Users\jpsch\source\repos\30DaysOfCode\DictionaryPractice\DictionaryPractice\bin\Debug\net5.0\DictionaryPractice.pdb
+C:\Users\jpsch\source\repos\30DaysOfCode\DictionaryPractice\DictionaryPractice\obj\Debug\net5.0\DictionaryPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpsch\source\repos\30DaysOfCode\DictionaryPractice\DictionaryPractice\obj\Debug\net5.0\DictionaryPractice.AssemblyInfoInputs.cache
+C:\Users\jpsch\source\repos\30DaysOfCode\DictionaryPractice\DictionaryPractice\obj\Debug\net5.0\DictionaryPractice.AssemblyInfo.cs
+C:\Users\jpsch\source\repos\30DaysOfCode\DictionaryPractice\DictionaryPractice\obj\Debug\net5.0\DictionaryPractice.csproj.CoreCompileInputs.cache
+C:\Users\jpsch\source\repos\30DaysOfCode\DictionaryPractice\DictionaryPractice\obj\Debug\net5.0\DictionaryPractice.dll
+C:\Users\jpsch\source\repos\30DaysOfCode\DictionaryPractice\DictionaryPractice\obj\Debug\net5.0\ref\DictionaryPractice.dll
+C:\Users\jpsch\source\repos\30DaysOfCode\DictionaryPractice\DictionaryPractice\obj\Debug\net5.0\DictionaryPractice.pdb
+C:\Users\jpsch\source\repos\30DaysOfCode\DictionaryPractice\DictionaryPractice\obj\Debug\net5.0\DictionaryPractice.genruntimeconfig.cache

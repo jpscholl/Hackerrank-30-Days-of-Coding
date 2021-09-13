@@ -1,0 +1,16 @@
+C:\Users\jpsch\source\repos\30DaysOfCode\DictionaryPractice\Day 8\bin\Debug\net5.0\Day 8.exe
+C:\Users\jpsch\source\repos\30DaysOfCode\DictionaryPractice\Day 8\bin\Debug\net5.0\Day 8.deps.json
+C:\Users\jpsch\source\repos\30DaysOfCode\DictionaryPractice\Day 8\bin\Debug\net5.0\Day 8.runtimeconfig.json
+C:\Users\jpsch\source\repos\30DaysOfCode\DictionaryPractice\Day 8\bin\Debug\net5.0\Day 8.runtimeconfig.dev.json
+C:\Users\jpsch\source\repos\30DaysOfCode\DictionaryPractice\Day 8\bin\Debug\net5.0\Day 8.dll
+C:\Users\jpsch\source\repos\30DaysOfCode\DictionaryPractice\Day 8\bin\Debug\net5.0\ref\Day 8.dll
+C:\Users\jpsch\source\repos\30DaysOfCode\DictionaryPractice\Day 8\bin\Debug\net5.0\Day 8.pdb
+C:\Users\jpsch\source\repos\30DaysOfCode\DictionaryPractice\Day 8\obj\Debug\net5.0\Day 8.csproj.AssemblyReference.cache
+C:\Users\jpsch\source\repos\30DaysOfCode\DictionaryPractice\Day 8\obj\Debug\net5.0\Day 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpsch\source\repos\30DaysOfCode\DictionaryPractice\Day 8\obj\Debug\net5.0\Day 8.AssemblyInfoInputs.cache
+C:\Users\jpsch\source\repos\30DaysOfCode\DictionaryPractice\Day 8\obj\Debug\net5.0\Day 8.AssemblyInfo.cs
+C:\Users\jpsch\source\repos\30DaysOfCode\DictionaryPractice\Day 8\obj\Debug\net5.0\Day 8.csproj.CoreCompileInputs.cache
+C:\Users\jpsch\source\repos\30DaysOfCode\DictionaryPractice\Day 8\obj\Debug\net5.0\Day 8.dll
+C:\Users\jpsch\source\repos\30DaysOfCode\DictionaryPractice\Day 8\obj\Debug\net5.0\ref\Day 8.dll
+C:\Users\jpsch\source\repos\30DaysOfCode\DictionaryPractice\Day 8\obj\Debug\net5.0\Day 8.pdb
+C:\Users\jpsch\source\repos\30DaysOfCode\DictionaryPractice\Day 8\obj\Debug\net5.0\Day 8.genruntimeconfig.cache

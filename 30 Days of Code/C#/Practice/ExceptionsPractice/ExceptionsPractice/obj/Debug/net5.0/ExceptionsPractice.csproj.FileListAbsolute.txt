@@ -1,0 +1,16 @@
+C:\Users\jpsch\source\repos\30DaysOfCode\ExceptionsPractice\ExceptionsPractice\bin\Debug\net5.0\ExceptionsPractice.exe
+C:\Users\jpsch\source\repos\30DaysOfCode\ExceptionsPractice\ExceptionsPractice\bin\Debug\net5.0\ExceptionsPractice.deps.json
+C:\Users\jpsch\source\repos\30DaysOfCode\ExceptionsPractice\ExceptionsPractice\bin\Debug\net5.0\ExceptionsPractice.runtimeconfig.json
+C:\Users\jpsch\source\repos\30DaysOfCode\ExceptionsPractice\ExceptionsPractice\bin\Debug\net5.0\ExceptionsPractice.runtimeconfig.dev.json
+C:\Users\jpsch\source\repos\30DaysOfCode\ExceptionsPractice\ExceptionsPractice\bin\Debug\net5.0\ExceptionsPractice.dll
+C:\Users\jpsch\source\repos\30DaysOfCode\ExceptionsPractice\ExceptionsPractice\bin\Debug\net5.0\ref\ExceptionsPractice.dll
+C:\Users\jpsch\source\repos\30DaysOfCode\ExceptionsPractice\ExceptionsPractice\bin\Debug\net5.0\ExceptionsPractice.pdb
+C:\Users\jpsch\source\repos\30DaysOfCode\ExceptionsPractice\ExceptionsPractice\obj\Debug\net5.0\ExceptionsPractice.csproj.AssemblyReference.cache
+C:\Users\jpsch\source\repos\30DaysOfCode\ExceptionsPractice\ExceptionsPractice\obj\Debug\net5.0\ExceptionsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpsch\source\repos\30DaysOfCode\ExceptionsPractice\ExceptionsPractice\obj\Debug\net5.0\ExceptionsPractice.AssemblyInfoInputs.cache
+C:\Users\jpsch\source\repos\30DaysOfCode\ExceptionsPractice\ExceptionsPractice\obj\Debug\net5.0\ExceptionsPractice.AssemblyInfo.cs
+C:\Users\jpsch\source\repos\30DaysOfCode\ExceptionsPractice\ExceptionsPractice\obj\Debug\net5.0\ExceptionsPractice.csproj.CoreCompileInputs.cache
+C:\Users\jpsch\source\repos\30DaysOfCode\ExceptionsPractice\ExceptionsPractice\obj\Debug\net5.0\ExceptionsPractice.dll
+C:\Users\jpsch\source\repos\30DaysOfCode\ExceptionsPractice\ExceptionsPractice\obj\Debug\net5.0\ref\ExceptionsPractice.dll
+C:\Users\jpsch\source\repos\30DaysOfCode\ExceptionsPractice\ExceptionsPractice\obj\Debug\net5.0\ExceptionsPractice.pdb
+C:\Users\jpsch\source\repos\30DaysOfCode\ExceptionsPractice\ExceptionsPractice\obj\Debug\net5.0\ExceptionsPractice.genruntimeconfig.cache
