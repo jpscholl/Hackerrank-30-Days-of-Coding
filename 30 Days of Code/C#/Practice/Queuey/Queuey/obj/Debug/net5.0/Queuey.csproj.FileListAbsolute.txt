@@ -1,0 +1,16 @@
+C:\Users\jpsch\source\repos\30DaysOfCode\Queuey\Queuey\bin\Debug\net5.0\Queuey.exe
+C:\Users\jpsch\source\repos\30DaysOfCode\Queuey\Queuey\bin\Debug\net5.0\Queuey.deps.json
+C:\Users\jpsch\source\repos\30DaysOfCode\Queuey\Queuey\bin\Debug\net5.0\Queuey.runtimeconfig.json
+C:\Users\jpsch\source\repos\30DaysOfCode\Queuey\Queuey\bin\Debug\net5.0\Queuey.runtimeconfig.dev.json
+C:\Users\jpsch\source\repos\30DaysOfCode\Queuey\Queuey\bin\Debug\net5.0\Queuey.dll
+C:\Users\jpsch\source\repos\30DaysOfCode\Queuey\Queuey\bin\Debug\net5.0\ref\Queuey.dll
+C:\Users\jpsch\source\repos\30DaysOfCode\Queuey\Queuey\bin\Debug\net5.0\Queuey.pdb
+C:\Users\jpsch\source\repos\30DaysOfCode\Queuey\Queuey\obj\Debug\net5.0\Queuey.csproj.AssemblyReference.cache
+C:\Users\jpsch\source\repos\30DaysOfCode\Queuey\Queuey\obj\Debug\net5.0\Queuey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpsch\source\repos\30DaysOfCode\Queuey\Queuey\obj\Debug\net5.0\Queuey.AssemblyInfoInputs.cache
+C:\Users\jpsch\source\repos\30DaysOfCode\Queuey\Queuey\obj\Debug\net5.0\Queuey.AssemblyInfo.cs
+C:\Users\jpsch\source\repos\30DaysOfCode\Queuey\Queuey\obj\Debug\net5.0\Queuey.csproj.CoreCompileInputs.cache
+C:\Users\jpsch\source\repos\30DaysOfCode\Queuey\Queuey\obj\Debug\net5.0\Queuey.dll
+C:\Users\jpsch\source\repos\30DaysOfCode\Queuey\Queuey\obj\Debug\net5.0\ref\Queuey.dll
+C:\Users\jpsch\source\repos\30DaysOfCode\Queuey\Queuey\obj\Debug\net5.0\Queuey.pdb
+C:\Users\jpsch\source\repos\30DaysOfCode\Queuey\Queuey\obj\Debug\net5.0\Queuey.genruntimeconfig.cache
