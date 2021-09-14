@@ -1,0 +1,16 @@
+C:\Users\jpsch\source\repos\30DaysOfCode\StarWarsInterfacePractice\StarWarsInterfacePractice\bin\Debug\net5.0\StarWarsInterfacePractice.exe
+C:\Users\jpsch\source\repos\30DaysOfCode\StarWarsInterfacePractice\StarWarsInterfacePractice\bin\Debug\net5.0\StarWarsInterfacePractice.deps.json
+C:\Users\jpsch\source\repos\30DaysOfCode\StarWarsInterfacePractice\StarWarsInterfacePractice\bin\Debug\net5.0\StarWarsInterfacePractice.runtimeconfig.json
+C:\Users\jpsch\source\repos\30DaysOfCode\StarWarsInterfacePractice\StarWarsInterfacePractice\bin\Debug\net5.0\StarWarsInterfacePractice.runtimeconfig.dev.json
+C:\Users\jpsch\source\repos\30DaysOfCode\StarWarsInterfacePractice\StarWarsInterfacePractice\bin\Debug\net5.0\StarWarsInterfacePractice.dll
+C:\Users\jpsch\source\repos\30DaysOfCode\StarWarsInterfacePractice\StarWarsInterfacePractice\bin\Debug\net5.0\ref\StarWarsInterfacePractice.dll
+C:\Users\jpsch\source\repos\30DaysOfCode\StarWarsInterfacePractice\StarWarsInterfacePractice\bin\Debug\net5.0\StarWarsInterfacePractice.pdb
+C:\Users\jpsch\source\repos\30DaysOfCode\StarWarsInterfacePractice\StarWarsInterfacePractice\obj\Debug\net5.0\StarWarsInterfacePractice.csproj.AssemblyReference.cache
+C:\Users\jpsch\source\repos\30DaysOfCode\StarWarsInterfacePractice\StarWarsInterfacePractice\obj\Debug\net5.0\StarWarsInterfacePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpsch\source\repos\30DaysOfCode\StarWarsInterfacePractice\StarWarsInterfacePractice\obj\Debug\net5.0\StarWarsInterfacePractice.AssemblyInfoInputs.cache
+C:\Users\jpsch\source\repos\30DaysOfCode\StarWarsInterfacePractice\StarWarsInterfacePractice\obj\Debug\net5.0\StarWarsInterfacePractice.AssemblyInfo.cs
+C:\Users\jpsch\source\repos\30DaysOfCode\StarWarsInterfacePractice\StarWarsInterfacePractice\obj\Debug\net5.0\StarWarsInterfacePractice.csproj.CoreCompileInputs.cache
+C:\Users\jpsch\source\repos\30DaysOfCode\StarWarsInterfacePractice\StarWarsInterfacePractice\obj\Debug\net5.0\StarWarsInterfacePractice.dll
+C:\Users\jpsch\source\repos\30DaysOfCode\StarWarsInterfacePractice\StarWarsInterfacePractice\obj\Debug\net5.0\ref\StarWarsInterfacePractice.dll
+C:\Users\jpsch\source\repos\30DaysOfCode\StarWarsInterfacePractice\StarWarsInterfacePractice\obj\Debug\net5.0\StarWarsInterfacePractice.pdb
+C:\Users\jpsch\source\repos\30DaysOfCode\StarWarsInterfacePractice\StarWarsInterfacePractice\obj\Debug\net5.0\StarWarsInterfacePractice.genruntimeconfig.cache
