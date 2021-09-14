@@ -1,0 +1,16 @@
+C:\Users\jpsch\source\repos\30DaysOfCode\Person\Person\bin\Debug\net5.0\Person.exe
+C:\Users\jpsch\source\repos\30DaysOfCode\Person\Person\bin\Debug\net5.0\Person.deps.json
+C:\Users\jpsch\source\repos\30DaysOfCode\Person\Person\bin\Debug\net5.0\Person.runtimeconfig.json
+C:\Users\jpsch\source\repos\30DaysOfCode\Person\Person\bin\Debug\net5.0\Person.runtimeconfig.dev.json
+C:\Users\jpsch\source\repos\30DaysOfCode\Person\Person\bin\Debug\net5.0\Person.dll
+C:\Users\jpsch\source\repos\30DaysOfCode\Person\Person\bin\Debug\net5.0\ref\Person.dll
+C:\Users\jpsch\source\repos\30DaysOfCode\Person\Person\bin\Debug\net5.0\Person.pdb
+C:\Users\jpsch\source\repos\30DaysOfCode\Person\Person\obj\Debug\net5.0\Person.csproj.AssemblyReference.cache
+C:\Users\jpsch\source\repos\30DaysOfCode\Person\Person\obj\Debug\net5.0\Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpsch\source\repos\30DaysOfCode\Person\Person\obj\Debug\net5.0\Person.AssemblyInfoInputs.cache
+C:\Users\jpsch\source\repos\30DaysOfCode\Person\Person\obj\Debug\net5.0\Person.AssemblyInfo.cs
+C:\Users\jpsch\source\repos\30DaysOfCode\Person\Person\obj\Debug\net5.0\Person.csproj.CoreCompileInputs.cache
+C:\Users\jpsch\source\repos\30DaysOfCode\Person\Person\obj\Debug\net5.0\Person.dll
+C:\Users\jpsch\source\repos\30DaysOfCode\Person\Person\obj\Debug\net5.0\ref\Person.dll
+C:\Users\jpsch\source\repos\30DaysOfCode\Person\Person\obj\Debug\net5.0\Person.pdb
+C:\Users\jpsch\source\repos\30DaysOfCode\Person\Person\obj\Debug\net5.0\Person.genruntimeconfig.cache
