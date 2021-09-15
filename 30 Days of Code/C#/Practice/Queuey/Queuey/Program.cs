@@ -1,4 +1,4 @@
-﻿/*
+/*
 //  Author: Jonathan Scholl
 //  Date: 9/13/2021
 //  Exercise: Queuey
@@ -11,14 +11,14 @@ using System.Linq;
 
 namespace Queuey
 {
-    public class Queuey
+    public class Queuey<T>
     {
-        LinkedList<string> queue;
+        LinkedList<T> queue;
 
         //make queue instance
         public Queuey()
         {
-            queue = new LinkedList<string>();
+            queue = new LinkedList<T>();
         }
 
         //Checks is queue is empty
@@ -33,7 +33,7 @@ namespace Queuey
         }
 
         //queueing new item
-        public void enqueue(String x)
+        public void enqueue(T x)
         {
             queue.AddLast(x);
         }
@@ -47,9 +47,9 @@ namespace Queuey
         }
 
         //Peek at first item
-        public string peek()
+        public T peek()
         {
-            return Convert.ToString(queue.First());
+            return queue.First();
         }
     }
 
@@ -80,31 +80,32 @@ namespace Queuey
             Console.WriteLine(queuey.Dequeue());
 
 
-            //Queuey stringQueue = new Queuey();
+            Queuey<string> stringQueue = new Queuey<string>();
 
-            //stringQueue.enqueue("hi");
-            //stringQueue.enqueue("there!");
+            stringQueue.enqueue("hi");
+            stringQueue.enqueue("there!");
 
 
-            //Console.WriteLine(stringQueue.peek());
-            //stringQueue.dequeue();
-            //Console.WriteLine(stringQueue.peek());
-            //stringQueue.dequeue();
+            Console.WriteLine(stringQueue.peek());
+            stringQueue.dequeue();
+            Console.WriteLine(stringQueue.peek());
+            stringQueue.dequeue();
 
-            //numberQueue.enqueue(5);
-            //numberQueue.enqueue(7);
-            //numberQueue.enqueue(6);
+            Queuey<int> numberQueue = new Queuey<int>();
 
-            ////it doesn't allow me to use RemoveFirst method inside writeline so this was
-            ////only way I could replicate what happens in the video
+            numberQueue.enqueue(5);
+            numberQueue.enqueue(7);
+            numberQueue.enqueue(6);
 
-            //Console.WriteLine("First out: " + numberQueue.peek());
-            //numberQueue.dequeue();
-            //Console.WriteLine("Second out: " + numberQueue.peek());
-            //numberQueue.dequeue();
-            //Console.WriteLine("Third out: " + numberQueue.peek());
-            //numberQueue.dequeue();
+            //it doesn't allow me to use RemoveFirst method inside writeline so this was
+            //only way I could replicate what happens in the video
 
+            Console.WriteLine("First out: " + numberQueue.peek());
+            numberQueue.dequeue();
+            Console.WriteLine("Second out: " + numberQueue.peek());
+            numberQueue.dequeue();
+            Console.WriteLine("Third out: " + numberQueue.peek());
+            numberQueue.dequeue();
 
         }
     }
