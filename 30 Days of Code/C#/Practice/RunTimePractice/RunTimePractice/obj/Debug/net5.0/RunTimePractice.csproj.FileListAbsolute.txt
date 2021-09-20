@@ -1,0 +1,16 @@
+C:\Users\jpsch\source\repos\Hackerrank\RunTimePractice\RunTimePractice\bin\Debug\net5.0\RunTimePractice.exe
+C:\Users\jpsch\source\repos\Hackerrank\RunTimePractice\RunTimePractice\bin\Debug\net5.0\RunTimePractice.deps.json
+C:\Users\jpsch\source\repos\Hackerrank\RunTimePractice\RunTimePractice\bin\Debug\net5.0\RunTimePractice.runtimeconfig.json
+C:\Users\jpsch\source\repos\Hackerrank\RunTimePractice\RunTimePractice\bin\Debug\net5.0\RunTimePractice.runtimeconfig.dev.json
+C:\Users\jpsch\source\repos\Hackerrank\RunTimePractice\RunTimePractice\bin\Debug\net5.0\RunTimePractice.dll
+C:\Users\jpsch\source\repos\Hackerrank\RunTimePractice\RunTimePractice\bin\Debug\net5.0\ref\RunTimePractice.dll
+C:\Users\jpsch\source\repos\Hackerrank\RunTimePractice\RunTimePractice\bin\Debug\net5.0\RunTimePractice.pdb
+C:\Users\jpsch\source\repos\Hackerrank\RunTimePractice\RunTimePractice\obj\Debug\net5.0\RunTimePractice.csproj.AssemblyReference.cache
+C:\Users\jpsch\source\repos\Hackerrank\RunTimePractice\RunTimePractice\obj\Debug\net5.0\RunTimePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpsch\source\repos\Hackerrank\RunTimePractice\RunTimePractice\obj\Debug\net5.0\RunTimePractice.AssemblyInfoInputs.cache
+C:\Users\jpsch\source\repos\Hackerrank\RunTimePractice\RunTimePractice\obj\Debug\net5.0\RunTimePractice.AssemblyInfo.cs
+C:\Users\jpsch\source\repos\Hackerrank\RunTimePractice\RunTimePractice\obj\Debug\net5.0\RunTimePractice.csproj.CoreCompileInputs.cache
+C:\Users\jpsch\source\repos\Hackerrank\RunTimePractice\RunTimePractice\obj\Debug\net5.0\RunTimePractice.dll
+C:\Users\jpsch\source\repos\Hackerrank\RunTimePractice\RunTimePractice\obj\Debug\net5.0\ref\RunTimePractice.dll
+C:\Users\jpsch\source\repos\Hackerrank\RunTimePractice\RunTimePractice\obj\Debug\net5.0\RunTimePractice.pdb
+C:\Users\jpsch\source\repos\Hackerrank\RunTimePractice\RunTimePractice\obj\Debug\net5.0\RunTimePractice.genruntimeconfig.cache
